@@ -1,0 +1,35 @@
+
+.main{
+    
+    height: 100px;
+    border-radius: 10px;
+    position: relative;
+    border: 2px solid black;
+    padding:20px;
+}
+
+#b{
+    background-color: yellow;
+    text-align: center;
+    padding: 10px;
+    border-radius:10px;
+}
+#t{
+    background-color: gray;
+    border-radius: 10px;
+    padding: 5px;
+    width: 100px;
+}
+#l{
+   position: absolute;
+   top: 0%;
+   right: 5%;
+}
+#s{
+    position: absolute;
+    bottom: 20%;
+    left: 5%;
+    width: 600px;
+    height: 40px;
+    border-radius: 5px;
+}
